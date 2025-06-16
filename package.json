@@ -1,0 +1,35 @@
+{
+  "name": "club_assets",
+  "description": "전주대학교 동아리를 위한 웹사이트 템플릿입니다.",
+  "version": "1.1.0",
+  "private": true,
+  "author": "RandArts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randarts/club-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/randarts/club_assets/issues"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "lucide-react": "^0.454.0",
+    "next": "15.2.4",
+    "react": "^19",
+    "react-dom": "^19"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8.5",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}
